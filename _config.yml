@@ -1,11 +1,11 @@
 # Site settings
 title: "🌸🐳 \  Sofiya \  👋"
 SEOTitle: Sofiya Blog
-header-img: img/hollow-knight.png
-email: hynduf@gmail.com
+header-img: img/blog-page.jpg
+email: sofija.p2018@gmail.com
 description: "May it get me? 🌸"
-keyword: "hynduf, @hynduf, HynDuf's Blog, CP, Arch Linux, Obsidian"
-url: "https://hynduf.github.io" # your host, for absolute URL
+keyword: "sofijacom, @sofijacom, sofijacom's Blog, CP, Arch Linux, Obsidian"
+url: "sofijacom.github.mi" # your host, for absolute URL
 baseurl: "" # for example, '/blog' if your blog hosted on 'host/blog'
 
 # Publish posts or collection documents with a future date.
@@ -13,10 +13,10 @@ future: true
 
 # SNS settings
 RSS: false
-github_username: hynduf
-twitter_username: HynDuf
-facebook_username: HynDuf
-linkedin_username: hynduf
+github_username: sofijacom
+twitter_username: sofijacom
+facebook_username: sofijacom
+linkedin_username: sofijacom
 
 # Build settings
 # from 2016, 'pygments' is unsupported on GitHub Pages. Use 'rouge' for highlighting instead.
@@ -57,7 +57,7 @@ kramdown:
       start_line: 1
 
 # Disqus settings
-# disqus_username: hynduf
+# disqus_username: sofiya
 
 # Netease settings
 netease_comment: false
@@ -67,13 +67,13 @@ netease_comment: false
 # ba_track_id: [your track id]
 
 # Google Analytics
-ga_track_id: "UA-49627206-1" # Format: UA-xxxxxx-xx
-ga_domain: huangxuan.me
+# ga_track_id: "UA-49627206-1" # Format: UA-xxxxxx-xx
+# ga_domain: huangxuan.me
 
 # Sidebar settings
 sidebar: true # whether or not using Sidebar.
-sidebar-about-description: "how far down the <br/> rabbit holes 🐇, <br/> would it take me? 🤔"
-sidebar-avatar: https://github.com/hynduf.png # use absolute URL, seeing it's used in both `/` and `/about/`
+sidebar-about-description: "I <br/> Love 🐇, <br/> Life 🤔"
+sidebar-avatar: https://github.com/sofijacom/sofijacom.github.mi/blob/master/img/logo-sofi.jpg # use absolute URL, seeing it's used in both `/` and `/about/`
 
 # Featured Tags
 featured-tags: true # whether or not using Feature-Tags
@@ -89,6 +89,6 @@ page-mathjax: false
 # Friends
 friends:
   [
-    { title: "Trí Phan", href: "https://triphan2k3.github.io/" },
-    { title: "Vanhger", href: "https://vanhger.github.io/" },
+    { title: "Erik Schoepplenberg", href: "https://github.com/techrockedge" },
+    { title: "fredx181", href: "https://github.com/fredx181" },
   ]
