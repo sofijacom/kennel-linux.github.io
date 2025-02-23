@@ -6,5 +6,5 @@ gem "rake"
 
 gem "webrick", "~> 1.7"
 
-gem "json", "~> 4.0"
+gem "json", "~> 2.7"
 
